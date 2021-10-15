@@ -1,0 +1,41 @@
+
+body {
+  width: 1300px;
+  margin: 0 auto;
+  background-color: #CEE2EA;
+}
+header.cabecera{
+	color: #000000;
+	font-size: 20px;
+	width: 90%;
+	margin: 0 auto;
+}
+nav{
+	font-size: 23px;
+	background: #8DC8E0;
+	width: 90%;
+	margin: 0 auto;
+}
+aside {
+    background: #8DC8E0;
+    color: #021366;
+    position: absolute;
+    font-size: 20px;
+    top: 225px;
+    left: 30px;
+    max-width: 200px;
+}
+section{
+	color: #000000;
+	font-size: 30px;
+	width: 90%;
+	margin: 0 auto;
+}
+footer{
+    top: 300px;
+    font-size: 20px;
+    background: #8DC8E0;
+    width: 90%;
+    margin: 0 auto;
+
+}
